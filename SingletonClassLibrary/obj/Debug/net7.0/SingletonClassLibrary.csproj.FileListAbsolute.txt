@@ -1,0 +1,14 @@
+D:\IT STEP\DesignPattern-Exam\SingletonClassLibrary\bin\Debug\net7.0\SingletonClassLibrary.exe
+D:\IT STEP\DesignPattern-Exam\SingletonClassLibrary\bin\Debug\net7.0\SingletonClassLibrary.deps.json
+D:\IT STEP\DesignPattern-Exam\SingletonClassLibrary\bin\Debug\net7.0\SingletonClassLibrary.runtimeconfig.json
+D:\IT STEP\DesignPattern-Exam\SingletonClassLibrary\bin\Debug\net7.0\SingletonClassLibrary.dll
+D:\IT STEP\DesignPattern-Exam\SingletonClassLibrary\bin\Debug\net7.0\SingletonClassLibrary.pdb
+D:\IT STEP\DesignPattern-Exam\SingletonClassLibrary\obj\Debug\net7.0\SingletonClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT STEP\DesignPattern-Exam\SingletonClassLibrary\obj\Debug\net7.0\SingletonClassLibrary.AssemblyInfoInputs.cache
+D:\IT STEP\DesignPattern-Exam\SingletonClassLibrary\obj\Debug\net7.0\SingletonClassLibrary.AssemblyInfo.cs
+D:\IT STEP\DesignPattern-Exam\SingletonClassLibrary\obj\Debug\net7.0\SingletonClassLibrary.csproj.CoreCompileInputs.cache
+D:\IT STEP\DesignPattern-Exam\SingletonClassLibrary\obj\Debug\net7.0\SingletonClassLibrary.dll
+D:\IT STEP\DesignPattern-Exam\SingletonClassLibrary\obj\Debug\net7.0\refint\SingletonClassLibrary.dll
+D:\IT STEP\DesignPattern-Exam\SingletonClassLibrary\obj\Debug\net7.0\SingletonClassLibrary.pdb
+D:\IT STEP\DesignPattern-Exam\SingletonClassLibrary\obj\Debug\net7.0\SingletonClassLibrary.genruntimeconfig.cache
+D:\IT STEP\DesignPattern-Exam\SingletonClassLibrary\obj\Debug\net7.0\ref\SingletonClassLibrary.dll
